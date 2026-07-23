@@ -1,4 +1,4 @@
-# Bem-vindos/as ao meu portfólio de ciência de dados.
+# Bem-vindos/as ao meu Portfólio de Dados.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/03208818-4600-4da8-b92e-f55f33d6b388"/ width=50% height=50%>
 </p>
