@@ -17,3 +17,9 @@ Olá, me chamo Beatriz Farias e sou estudante de graduação de Inteligência Ar
   - O achado mais relevante do projeto não é uma correlação, e sim um problema de qualidade de dado: sem datas confiáveis, é impossível investigar causas ligadas a tempo (validade, atraso de fornecedor), que eram, a princípio, as hipóteses de negócio mais plausíveis.
 - <a href="https://github.com/beatrizfariasilva/Analise_Stockwise" > Clique aqui para ver o projeto completo </a>
 
+### EM ANDAMENTO
+- Atualmente, estou aprofundando no deploy de modelos de machine learning via nuvem
+
+### CONTATO
+- <a href="https://www.linkedin.com/in/beatrizfariasilva/"> Linkedin </a>
+- <a href="beatrizfariasilva1@gmail.com"> E-mail </a>
