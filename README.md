@@ -1,9 +1,9 @@
-# Bem-vindos ao meu portfólio de ciência de dados👋
+# Bem-vindos/as ao meu portfólio de ciência de dados.
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Data%20Science%20Portfolio&fontSize=70" width="100%">
 </p>
 
-Olá, me chamo Beatriz Farias e sou estudante de graduação de Inteligência Artificial pela Universidade Federal de Pernambuco. Atualmente, atuo como desenvolvedora na Safe Suporte a Vida. Minha paixão se encontra na predição e analise de dados e estou em constante participação em projetos dessa área. Você pode encontrar um pouco mais sobre eles abaixo.  
+Olá, me chamo Beatriz Farias e sou estudante de graduação de Inteligência Artificial pela Universidade Federal de Pernambuco. Atualmente, atuo como desenvolvedora na distribuidora de produtos hospitalares Safe Soluções Tecnológicas. Minha paixão se encontra na predição e analise de dados e estou em constante participação em projetos dessa área. Você pode encontrar um pouco mais sobre eles abaixo.  
 
 ## Projetos
 
